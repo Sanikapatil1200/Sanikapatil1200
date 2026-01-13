@@ -2,7 +2,7 @@
 - 👀 I’m interested in data and how it is used in various fields 
 - 🌱 I’m currently learning Data analytics and hope to build a good porfolio on github to showcase the new skills I learn 
 - 📫 How to reach me. you can connect with me on Linkedin www.linkedin.com/in/000-sanika-patil
-- ⚡ Fun fact: Big Fan of Watching documentaries (Nature, Crime, Finance)
+- ⚡ Fun fact: Big Fan of Watching documentaries (Nature, Crime)
 
 <!---
 Sanikapatil1200/Sanikapatil1200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
